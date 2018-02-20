@@ -37,9 +37,7 @@ paginate = 10
 		linkedin = ""
 
 		copyright = [
-			"&copy; John Doe",
-			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
+			"&copy; Miguel Quintero"
 		]
 
 
